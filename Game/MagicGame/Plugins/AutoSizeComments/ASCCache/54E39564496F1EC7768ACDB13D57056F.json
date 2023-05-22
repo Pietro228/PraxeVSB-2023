@@ -1,0 +1,106 @@
+{
+	"packageData":
+	{
+		"/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter":
+		{
+			"graphData":
+			{
+				"CDF427474B1D5EE62FDE438B807E707D":
+				{
+					"commentData":
+					{
+						"6DC15C7249D2B8424E24788D8B418FC6":
+						{
+							"nodeGuids": [
+								"715996604194F8BE2C24C68550AF5696",
+								"5D89F5E1475AA873E70CA38F90E53945",
+								"7DA4E6D3479874B452EC478B6D3B41F4",
+								"3EFAB8E34A14703B567990A79D6ED461",
+								"4DC222A84DF9FD18D1C208A943A913E8",
+								"8AF799F2457DF436AB9337B4E47B516F"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"DBDF92014D0BE4FD4B512AB885E6F66B":
+						{
+							"nodeGuids": [
+								"88B37EA64560471D2025ECBF404484EA",
+								"80513E42423F4BFC7026A5AF32A5167B",
+								"5DA12B624225F8CD19A59BB18E30848F",
+								"837C1E844F7A32FA1487768C3BF61BE9",
+								"A3BB360E4B1C78100DA81BB3F98FAC18",
+								"A8FE725843242CEF67F51B9921CC1945",
+								"054800AE4F623F6319EB0C9412DA82D9",
+								"1334BFF84CD17534B7DC1082BCEF3841",
+								"9BCD21994FE030FA6738DA9C2742D7F5",
+								"3484BCC44256A9E8FB3CCBA50B765D25",
+								"500EBA43460C534652888DA9242A0C3A"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"1A00A9834C960941D9655E963D8FDFBA":
+						{
+							"nodeGuids": [
+								"F923268743B7B52D669FFB960CA79833",
+								"E60E51D14AFDDB3C7284AE89737920FE",
+								"0C13CF374DA39F25944296B3805E0374"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"C03211B0454B0E0CAE07ECADD50FA036":
+						{
+							"nodeGuids": [
+								"F4208DD04271ADB3FD9BD6B83CB61A38",
+								"1D7FF5DB4E8D6D72EED2499476248FB8",
+								"1D0E80B44C87B9D2F0DEBFA05441DA62",
+								"099881284D839F59BE3A2B85CFAE373D",
+								"FBF57DAC40F33257DFA76EAE35050B94",
+								"F823AA884127EABDF209D288F93588DA",
+								"1D46DF744454E9D8A40392B5A8978B43"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"3484BCC44256A9E8FB3CCBA50B765D25":
+						{
+							"nodeGuids": [
+								"80513E42423F4BFC7026A5AF32A5167B",
+								"1334BFF84CD17534B7DC1082BCEF3841"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"500EBA43460C534652888DA9242A0C3A":
+						{
+							"nodeGuids": [
+								"88B37EA64560471D2025ECBF404484EA",
+								"054800AE4F623F6319EB0C9412DA82D9"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"8AF799F2457DF436AB9337B4E47B516F":
+						{
+							"nodeGuids": [
+								"5D89F5E1475AA873E70CA38F90E53945"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"4DC222A84DF9FD18D1C208A943A913E8":
+						{
+							"nodeGuids": [
+								"715996604194F8BE2C24C68550AF5696"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		}
+	}
+}
