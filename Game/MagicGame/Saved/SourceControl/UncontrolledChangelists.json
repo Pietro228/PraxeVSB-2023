@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ELS0024/PraxeVSB-2023/Game/MagicGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
