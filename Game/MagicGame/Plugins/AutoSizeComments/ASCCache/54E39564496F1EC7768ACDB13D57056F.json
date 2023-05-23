@@ -1,0 +1,241 @@
+{
+	"packageData":
+	{
+		"/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter":
+		{
+			"graphData":
+			{
+				"CDF427474B1D5EE62FDE438B807E707D":
+				{
+					"commentData":
+					{
+						"6DC15C7249D2B8424E24788D8B418FC6":
+						{
+							"nodeGuids": [
+								"715996604194F8BE2C24C68550AF5696",
+								"5D89F5E1475AA873E70CA38F90E53945",
+								"7DA4E6D3479874B452EC478B6D3B41F4",
+								"3EFAB8E34A14703B567990A79D6ED461",
+								"4DC222A84DF9FD18D1C208A943A913E8",
+								"8AF799F2457DF436AB9337B4E47B516F"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"DBDF92014D0BE4FD4B512AB885E6F66B":
+						{
+							"nodeGuids": [
+								"88B37EA64560471D2025ECBF404484EA",
+								"80513E42423F4BFC7026A5AF32A5167B",
+								"5DA12B624225F8CD19A59BB18E30848F",
+								"837C1E844F7A32FA1487768C3BF61BE9",
+								"A3BB360E4B1C78100DA81BB3F98FAC18",
+								"A8FE725843242CEF67F51B9921CC1945",
+								"054800AE4F623F6319EB0C9412DA82D9",
+								"1334BFF84CD17534B7DC1082BCEF3841",
+								"9BCD21994FE030FA6738DA9C2742D7F5",
+								"3484BCC44256A9E8FB3CCBA50B765D25",
+								"500EBA43460C534652888DA9242A0C3A"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"1A00A9834C960941D9655E963D8FDFBA":
+						{
+							"nodeGuids": [
+								"F923268743B7B52D669FFB960CA79833",
+								"E60E51D14AFDDB3C7284AE89737920FE",
+								"0C13CF374DA39F25944296B3805E0374"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"C03211B0454B0E0CAE07ECADD50FA036":
+						{
+							"nodeGuids": [
+								"F4208DD04271ADB3FD9BD6B83CB61A38",
+								"1D7FF5DB4E8D6D72EED2499476248FB8",
+								"1D0E80B44C87B9D2F0DEBFA05441DA62",
+								"099881284D839F59BE3A2B85CFAE373D",
+								"FBF57DAC40F33257DFA76EAE35050B94",
+								"F823AA884127EABDF209D288F93588DA",
+								"1D46DF744454E9D8A40392B5A8978B43"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"3484BCC44256A9E8FB3CCBA50B765D25":
+						{
+							"nodeGuids": [
+								"80513E42423F4BFC7026A5AF32A5167B",
+								"1334BFF84CD17534B7DC1082BCEF3841"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"500EBA43460C534652888DA9242A0C3A":
+						{
+							"nodeGuids": [
+								"88B37EA64560471D2025ECBF404484EA",
+								"054800AE4F623F6319EB0C9412DA82D9"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"8AF799F2457DF436AB9337B4E47B516F":
+						{
+							"nodeGuids": [
+								"5D89F5E1475AA873E70CA38F90E53945"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"4DC222A84DF9FD18D1C208A943A913E8":
+						{
+							"nodeGuids": [
+								"715996604194F8BE2C24C68550AF5696"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/FirstPerson/Blueprints/BP_FPS":
+		{
+			"graphData":
+			{
+				"CDF427474B1D5EE62FDE438B807E707D":
+				{
+					"commentData":
+					{
+						"9ECB17C342DAE723451330810904E9E4":
+						{
+							"nodeGuids": [
+								"CCB8BB704F431B0AF1A81DA27D244096",
+								"C53E512C45CFA3A5F8DBFFB3AFCB8FEC",
+								"3597B7A34BFB5994E1D63EA9AD78A6D1",
+								"777063084C9C9FF2D6AA45A4C3CCD181",
+								"3755C3B345BA1C9F45A7A495E7851D1F",
+								"4EF98329434C4547CFD024968F230356"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"12D378834E0F1D5834CFABB52B030843":
+						{
+							"nodeGuids": [
+								"64E5E05D4A2104371CFB5D94179D87B1",
+								"5A728EA84E0D2101EC25FAA7A182BA80",
+								"89C118FC454DE1B5D28A0F85258608FC",
+								"1A223B8F45F31CBB2DFE5A81E268BB83",
+								"0313851E49BFC1C8902C8F81C0ABE3BE",
+								"AB61386E40B17AE1B4CF24B211671C68",
+								"66A34BC04AA3C32638F1719607EA5CB1",
+								"60D1260747529951710CECA21BE17B21",
+								"4EB1D40C41867543B290A393E07EACCC",
+								"901D51654F52618FEF98FAAB18867DC6",
+								"6828C1754570F250E9FF79929D513B3E"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"8A23956647003AAC8939E198D3823B9A":
+						{
+							"nodeGuids": [
+								"5277C42045F749D8B14659B26E64C6BD",
+								"F10025864E80FC69116019B5774FA1F1",
+								"FA088984401F74E01DD168B6A5ECC73D"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"304D9E104C13D2EA7FF9869B413A6F81":
+						{
+							"nodeGuids": [],
+							"bHeader": 1,
+							"bInit": 1
+						},
+						"901D51654F52618FEF98FAAB18867DC6":
+						{
+							"nodeGuids": [
+								"5A728EA84E0D2101EC25FAA7A182BA80",
+								"60D1260747529951710CECA21BE17B21"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"6828C1754570F250E9FF79929D513B3E":
+						{
+							"nodeGuids": [
+								"64E5E05D4A2104371CFB5D94179D87B1",
+								"66A34BC04AA3C32638F1719607EA5CB1"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"3755C3B345BA1C9F45A7A495E7851D1F":
+						{
+							"nodeGuids": [
+								"C53E512C45CFA3A5F8DBFFB3AFCB8FEC"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"4EF98329434C4547CFD024968F230356":
+						{
+							"nodeGuids": [
+								"CCB8BB704F431B0AF1A81DA27D244096"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		},
+		"/Game/FirstPersonArms/Animations/FirstPerson_AnimBP":
+		{
+			"graphData":
+			{
+				"57D373E5496214E2EF247B8B75C376E3":
+				{
+					"commentData":
+					{
+						"6BA61C384D80062042F60A8509F7E574":
+						{
+							"nodeGuids": [
+								"E8AD2D1A4DCD89ACB1EE809F0FFC688F",
+								"D5B90562454175D96B856AAA2A321724",
+								"3C1E51894D3828A11FBA818456E88EC2"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"32F13BBE41157BC84BD6E990CC9AA21E":
+						{
+							"nodeGuids": [
+								"A4AAE1C24C4A7C6BF668718980E1BCE0",
+								"AB915E814B59AFA3B96A0E99F5BAA629"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						},
+						"54246A6B46AD5FE0E39DE0A92E0BE9D0":
+						{
+							"nodeGuids": [
+								"792B74A140BD9C553E39F28C84052839",
+								"BE05C15446EA33B19C0D4193F5F0F482",
+								"FF4F3E2A461401A0F4E59C9C49EE7F66",
+								"42D34A824ABC80B166246BADA6E27213"
+							],
+							"bHeader": 0,
+							"bInit": 1
+						}
+					}
+				}
+			}
+		}
+	}
+}
