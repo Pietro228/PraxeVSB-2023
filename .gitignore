@@ -1,8 +1,8 @@
 # Ignore blender temp files
-.blend1
-.blend2
-.blend3
-.blend4
+*.blend1
+*.blend2
+*.blend3
+*.blend4
 
 
 # Visual Studio 2015 user specific files
