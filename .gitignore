@@ -54,7 +54,6 @@ Game/MagicGame/SourceArt/**/*.tga
 
 # Binary Files
 Game/MagicGame/Binaries/*
-Game/MagicGame/Plugins/*/Binaries/*
 
 # Builds
 Game/MagicGame/Build/*
@@ -75,7 +74,6 @@ Game/MagicGame/Saved/*
 
 # Compiled source files for the engine to use
 Game/MagicGame/Intermediate/*
-Game/MagicGame/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Game/MagicGame/DerivedDataCache/*
