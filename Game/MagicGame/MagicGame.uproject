@@ -3,16 +3,6 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "MagicGame",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "ResonanceAudio",
