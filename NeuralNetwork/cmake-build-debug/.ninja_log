@@ -1,0 +1,15 @@
+# ninja log v5
+5	444	7070071822097460	CMakeFiles/NeauralNetwork_shape_recognition.dir/Layer.cpp.obj	653cedd0de0c87c2
+4	724	7070089477901668	CMakeFiles/NeauralNetwork_shape_recognition.dir/main.cpp.obj	415070f074c4f54a
+725	853	7070089479161957	NeauralNetwork_shape_recognition.exe	1229d394b3d95e91
+2	432	7070089474991009	CMakeFiles/NeauralNetwork_shape_recognition.dir/NeuralNetwork.cpp.obj	3e81ef8e628f5ac3
+3	721	7070089607112145	CMakeFiles/NeauralNetwork_shape_recognition.dir/main.cpp.obj	415070f074c4f54a
+721	850	7070089608382427	NeauralNetwork_shape_recognition.exe	1229d394b3d95e91
+3	735	7070089647360962	CMakeFiles/NeauralNetwork_shape_recognition.dir/main.cpp.obj	415070f074c4f54a
+735	868	7070089648671261	NeauralNetwork_shape_recognition.exe	1229d394b3d95e91
+2	724	7070089700741652	CMakeFiles/NeauralNetwork_shape_recognition.dir/main.cpp.obj	415070f074c4f54a
+725	854	7070089702011934	NeauralNetwork_shape_recognition.exe	1229d394b3d95e91
+2	423	7070090947523088	CMakeFiles/NeauralNetwork_shape_recognition.dir/Layer.cpp.obj	653cedd0de0c87c2
+4	455	7070090947843153	CMakeFiles/NeauralNetwork_shape_recognition.dir/NeuralNetwork.cpp.obj	3e81ef8e628f5ac3
+5	736	7070090950633795	CMakeFiles/NeauralNetwork_shape_recognition.dir/main.cpp.obj	415070f074c4f54a
+736	865	7070090951904083	NeauralNetwork_shape_recognition.exe	1229d394b3d95e91

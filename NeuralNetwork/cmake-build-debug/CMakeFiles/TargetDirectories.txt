@@ -1,0 +1,3 @@
+D:/UE5 dev/Clion_projects/NeuralNetwork/cmake-build-debug/CMakeFiles/NeauralNetwork_shape_recognition.dir
+D:/UE5 dev/Clion_projects/NeuralNetwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UE5 dev/Clion_projects/NeuralNetwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
